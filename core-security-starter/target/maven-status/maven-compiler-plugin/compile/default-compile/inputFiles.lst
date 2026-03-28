@@ -1,0 +1,9 @@
+/Users/MAC/auth-security-assessment/core-security-starter/src/main/java/com/example/security/autoconfigure/SecurityAutoConfiguration.java
+/Users/MAC/auth-security-assessment/core-security-starter/src/main/java/com/example/security/config/SecurityProperties.java
+/Users/MAC/auth-security-assessment/core-security-starter/src/main/java/com/example/security/exception/ErrorResponse.java
+/Users/MAC/auth-security-assessment/core-security-starter/src/main/java/com/example/security/exception/GlobalSecurityExceptionHandler.java
+/Users/MAC/auth-security-assessment/core-security-starter/src/main/java/com/example/security/exception/JwtAccessDeniedHandler.java
+/Users/MAC/auth-security-assessment/core-security-starter/src/main/java/com/example/security/exception/JwtAuthenticationEntryPoint.java
+/Users/MAC/auth-security-assessment/core-security-starter/src/main/java/com/example/security/filter/JwtAuthenticationFilter.java
+/Users/MAC/auth-security-assessment/core-security-starter/src/main/java/com/example/security/filter/SecurityLoggingFilter.java
+/Users/MAC/auth-security-assessment/core-security-starter/src/main/java/com/example/security/jwt/JwtTokenUtil.java

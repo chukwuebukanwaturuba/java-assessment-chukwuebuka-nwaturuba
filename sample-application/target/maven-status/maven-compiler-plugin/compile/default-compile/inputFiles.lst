@@ -1,0 +1,15 @@
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/SampleApplication.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/config/SecurityConfig.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/controller/AdminController.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/controller/AuthController.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/controller/PublicController.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/controller/UserController.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/data/DataInitializer.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/dto/LoginRequest.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/dto/LoginResponse.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/dto/UserDto.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/model/User.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/repository/UserRepository.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/service/AuthService.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/service/UserDetailsServiceImpl.java
+/Users/MAC/auth-security-assessment/sample-application/src/main/java/com/example/app/service/UserService.java

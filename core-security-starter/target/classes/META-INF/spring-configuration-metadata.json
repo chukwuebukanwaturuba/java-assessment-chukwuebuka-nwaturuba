@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "security.jwt",
+      "type": "com.example.security.config.SecurityProperties",
+      "sourceType": "com.example.security.config.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "security.jwt.expiry-ms",
+      "type": "java.lang.Long",
+      "sourceType": "com.example.security.config.SecurityProperties",
+      "defaultValue": 86400000
+    },
+    {
+      "name": "security.jwt.header-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.security.config.SecurityProperties",
+      "defaultValue": "Authorization"
+    },
+    {
+      "name": "security.jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.example.security.config.SecurityProperties",
+      "defaultValue": "Y2hhbmdlLXRoaXMtc2VjcmV0LWtleS1pbi1wcm9kdWN0aW9uLXBsZWFzZSE="
+    },
+    {
+      "name": "security.jwt.token-prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.example.security.config.SecurityProperties",
+      "defaultValue": "Bearer "
+    }
+  ],
+  "hints": []
+}
