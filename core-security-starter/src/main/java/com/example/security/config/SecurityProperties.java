@@ -2,9 +2,7 @@ package com.example.security.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-// Configuration properties for the core-security-starter.
-// All properties sit under the security.jwt prefix.
-// Override them in your application.properties — at minimum change the secret.
+
 @ConfigurationProperties(prefix = "security.jwt")
 public class SecurityProperties {
 
