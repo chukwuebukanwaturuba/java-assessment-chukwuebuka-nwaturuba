@@ -1,3 +1,9 @@
+
+Author: Chukwuebuka Nwaturuba
+email: nwaturubachukwuebuka@gmail.com
+
+
+
 # Auth Security Assessment
 
 This is a Spring Boot multi-module project that implements JWT-based authentication and authorization. 
@@ -92,9 +98,3 @@ security.jwt.secret=<base64-encoded-key>   # must decode to at least 32 bytes
 security.jwt.expiry-ms=86400000            # 24 hours by default
 ```
 
-To generate a proper secret:
-```bash
-openssl rand -base64 32
-```
-
-Don't use the default secret in production.
